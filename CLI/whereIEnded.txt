@@ -1,0 +1,11 @@
+Jonathan you finally fixed the functionlity of the program whereno matter what user enters the program never break.
+You about to tackle the part of the prpogram that deals with transaction i.e including deposits, withdrawals and initial deposits
+that will break the program incase the user enters an invalid chracter
+
+                                
+finally fixed most of the bugs in the program now looking foward to adding actional cool features to the program to make it better
+
+                                Whats next
+Add the lading feature which is delays and also clering of the screen and also skipping the intro part of the if
+its not your first time using the program and also adding the log file an last but not the least fixing the statements of users and
+also fixing the options when selected that doesn't work..
