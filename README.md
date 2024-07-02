@@ -54,12 +54,26 @@ The GUI is not fully functional. It serves as a base for further development. Us
 
 ### Running the CLI Version
 
-1. NAvigate to the CLI:
+1. Navigate to the CLI:
     ```sh
     cd CLI
     ```
-    
-2. Compile the CLI code:
+2. Run this file by just clicking on it:
+   ```sh
+   create_all_required_dir_and_files.bat
+   ```
+   contents of the file:
+   ```sh
+   cd C:\ProgramData\
+    mkdir "IXAC BANK"
+    cd "IXAC BANK"
+    mkdir Database & mkdir Logs
+    cd Database\
+    mkdir Transactions
+    cd C:\Users\LOKIWHAN\Desktop\Stuff\Projects\IXAC BANK\src\com\IXACBANK\TERMINAL\
+    java create_log_file.java
+    ```
+4. Compile the CLI code:
     ```sh
     javac Main.java
     ```
