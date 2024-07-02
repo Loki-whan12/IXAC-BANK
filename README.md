@@ -38,6 +38,7 @@ The GUI is not fully functional. It serves as a base for further development. Us
 - Java Development Kit (JDK) 8 or higher
 - MySQL Server
 - MySQL JDBC Driver
+- When you get the file make sure to delete all lines of "package com.IXACBANK.TERMINAL;" in all files, I used my own package so you decide to create a new package with that name or better just remove to avoid any confliction error 
 
 ### Installation
 
