@@ -59,7 +59,7 @@ The GUI is not fully functional. It serves as a base for further development. Us
     ```sh
     cd CLI
     ```
-2. Run this file by just clicking on it:
+2. Open and Edit this file, before running it, by just clicking on it:
    ```sh
    create_all_required_dir_and_files.bat
    ```
@@ -71,7 +71,7 @@ The GUI is not fully functional. It serves as a base for further development. Us
     mkdir Database & mkdir Logs
     cd Database\
     mkdir Transactions
-    cd C:\Users\LOKIWHAN\Desktop\Stuff\Projects\IXAC BANK\src\com\IXACBANK\TERMINAL\
+    cd /pathToWheretheMainExtractedCodesAre/
     java create_log_file.java
     ```
 4. Compile the CLI code:
